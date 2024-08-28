@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889209364609",
+    "project_id": "kotlinfirebase-b3a63",
+    "storage_bucket": "kotlinfirebase-b3a63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889209364609:android:b9d3d3248897ff4a6ced80",
+        "android_client_info": {
+          "package_name": "com.afk.agendafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm0HPC_0AStHJ1MBEDOXtHY9-ciGwghEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

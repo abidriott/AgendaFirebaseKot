@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">agendaFK</string>
+    <string name="title">Agenda Firebase</string>
+    <string name="favorite">Marcar Favorito</string>
+    <string name="phone_number1">Teléfono *</string>
+    <string name="phone_number2">Teléfono Secundario</string>
+    <string name="btn_clean">Limpiar</string>
+    <string name="btn_list">Listar</string>
+    <string name="btn_save">Guardar</string>
+    <string name="notes">Notas</string>
+    <string name="address">Dirección *</string>
+    <string name="name">Nombre *</string>
+    <string name="new_string">agregar contacto</string>
+    <string name="message">Contacto Guardado</string>
+    <string name="error_message">Favor de llenar todos los campos marcados con (*)</string>
+    <string name="edit_message">Actualizado</string>
+</resources>
